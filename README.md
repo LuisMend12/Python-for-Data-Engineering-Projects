@@ -1,0 +1,3 @@
+You'll gain hands-on experience with critical data engineering tasks in Python for Data Engineering Project. Learn to collect data from APIs and web scraping, extract data from diverse file formats, and transform it for further analysis. You'll also log data operations to ensure transparency and reproducibility.
+
+Enhance your collaborative skills by sharing your Jupyter Notebook in Watson Studio and participating in peer reviews to gain and provide constructive feedback. This module will equip you with the practical knowledge and skills to handle real-world data engineering challenges efficiently.
